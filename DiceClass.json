@@ -1,8 +1,8 @@
 {
   "Dice":
   [
-    {"DiceType":6,"DiceSide":[1,2,3,4,5,6],"DiceImage":["die1.jpeg","die2.jpeg","die3.jpeg","die4.jpeg","die5.jpeg","die6.jpeg"], "DiceWebsite":"https://www.dicegamedepot.com/6-sided-dice/"}
-    {"DiceType":8,"DiceSide":[1,2,3,4,5,6,7,8],"DiceImage":["8-1.PNG","8-2.PNG","8-3.PNG","8-4.PNG","8-5.PNG","8-6.PNG","8-7.PNG","8-8.PNG"], "DiceWebsite":"https://www.dicegamedepot.com/8-sided-dice-d8/"}
+    {"DiceType":6,"DiceSide":[1,2,3,4,5,6],"DiceImage":["die1.jpeg","die2.jpeg","die3.jpeg","die4.jpeg","die5.jpeg","die6.jpeg"], "DiceWebsite":"https://www.dicegamedepot.com/6-sided-dice/"},
+    {"DiceType":8,"DiceSide":[1,2,3,4,5,6,7,8],"DiceImage":["8-1.PNG","8-2.PNG","8-3.PNG","8-4.PNG","8-5.PNG","8-6.PNG","8-7.PNG","8-8.PNG"], "DiceWebsite":"https://www.dicegamedepot.com/8-sided-dice-d8/"},
     {"DiceType":10,"DiceSide":[1,2,3,4,5,6,7,8,9,10],"DiceImage":["10-1.PNG","10-2.PNG","10-3.PNG","10-4.PNG","10-5.PNG","10-6.PNG","10-7.PNG","10-8.PNG","10-9.PNG","10-10.PNG"], "DiceWebsite":"https://www.dicegamedepot.com/10-sided-dice-d10/"}
 
   ],
